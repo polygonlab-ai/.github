@@ -26,7 +26,7 @@ utiles à d'autres développeurs, testés, documentés et maintenus.
 | Dépôt | Rôle | Installation |
 |---|---|---|
 | [identifiants-entreprise-fr](https://github.com/polygonlab-ai/identifiants-entreprise-fr) | Validation et formatage des SIREN, SIRET, numéros de TVA intracommunautaire et codes APE français (PHP) | `composer require polygonlab/identifiants-entreprise-fr` |
-| mcp-php-kit | Serveurs MCP (Model Context Protocol) en PHP, avec un Worker Cloudflare facultatif | En préparation |
+| [mcp-php-kit](https://github.com/polygonlab-ai/mcp-php-kit) | Serveurs MCP (Model Context Protocol) en PHP, avec un Worker Cloudflare facultatif | `composer require polygonlab/mcp-php-kit` |
 
 ## Contribuer
 
