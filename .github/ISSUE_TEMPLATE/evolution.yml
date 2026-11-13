@@ -1,0 +1,29 @@
+name: Évolution
+description: Proposer une nouvelle fonctionnalité ou une amélioration.
+title: "[Évolution] "
+labels: ["évolution"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Décrivez le besoin avant la solution : cela nous aide à trouver la meilleure réponse.
+  - type: textarea
+    id: besoin
+    attributes:
+      label: Besoin
+      description: Le cas d'usage et ce qui manque aujourd'hui.
+    validations:
+      required: true
+  - type: textarea
+    id: proposition
+    attributes:
+      label: Proposition
+      description: Ce que vous proposez, avec un exemple d'utilisation si possible.
+    validations:
+      required: false
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives envisagées
+    validations:
+      required: false

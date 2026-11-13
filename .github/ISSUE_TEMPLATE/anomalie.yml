@@ -1,0 +1,45 @@
+name: Anomalie
+description: Signaler un comportement incorrect (jamais une faille de sécurité, voir SECURITY.md).
+title: "[Anomalie] "
+labels: ["anomalie"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Merci de prendre le temps de signaler une anomalie. Une faille de sécurité ne se signale
+        jamais ici : utilisez le bouton « Report a vulnerability » de l'onglet Security.
+  - type: input
+    id: version
+    attributes:
+      label: Version du dépôt
+      description: La version utilisée (par exemple 1.2.0).
+    validations:
+      required: true
+  - type: input
+    id: environnement
+    attributes:
+      label: Environnement
+      description: Version du langage et système (par exemple PHP 8.3 sous Linux).
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Étapes pour reproduire
+      description: Un exemple minimal qui reproduit le problème.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: attendu
+    attributes:
+      label: Résultat attendu
+    validations:
+      required: true
+  - type: textarea
+    id: obtenu
+    attributes:
+      label: Résultat obtenu
+      description: Message d'erreur complet si possible.
+    validations:
+      required: true
