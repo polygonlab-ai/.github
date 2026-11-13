@@ -5,6 +5,13 @@ Toutes les évolutions notables de ce dépôt sont décrites ici.
 Le format suit [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) et le projet respecte
 le [versionnage sémantique](https://semver.org/lang/fr/).
 
+## [1.0.4] - 2026-11-14 - Publication de facture-electronique-fr-outils
+
+### Modifié
+
+- Tableau des dépôts de la page d'accueil : ajout de `facture-electronique-fr-outils`, avec son lien et sa commande
+  d'installation.
+
 ## [1.0.3] - 2026-11-13 - Publication de mcp-php-kit
 
 ### Modifié
@@ -35,6 +42,7 @@ le [versionnage sémantique](https://semver.org/lang/fr/).
   page d'aide, communs à tous les dépôts.
 - Modèles de tickets : anomalie et évolution.
 
+[1.0.4]: https://github.com/polygonlab-ai/.github/releases/tag/v1.0.4
 [1.0.3]: https://github.com/polygonlab-ai/.github/releases/tag/v1.0.3
 [1.0.2]: https://github.com/polygonlab-ai/.github/releases/tag/v1.0.2
 [1.0.1]: https://github.com/polygonlab-ai/.github/releases/tag/v1.0.1
