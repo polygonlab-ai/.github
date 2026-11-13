@@ -39,6 +39,8 @@ Une faille de sécurité se signale en privé : voir
 - Site : [polygonlab.ai](https://polygonlab.ai)
 - E-mail : contact@polygonlab.ai
 
+PolygonLab, SASU au capital de 10 000 € — SIRET 108 196 957 00014 — RCS Avignon
+
 ## In English
 
 PolygonLab is a French software company. We design, build and run software and online services
