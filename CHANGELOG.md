@@ -5,6 +5,13 @@ Toutes les évolutions notables de ce dépôt sont décrites ici.
 Le format suit [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) et le projet respecte
 le [versionnage sémantique](https://semver.org/lang/fr/).
 
+## [1.0.10] - 2026-11-14 - Publication de agent-skills-entreprise-fr
+
+### Modifié
+
+- Tableau des dépôts de la page d'accueil : ajout de `agent-skills-entreprise-fr`, recueil de skills pour agents IA
+  sur l'entreprise française, adossées aux dépôts déjà publiés.
+
 ## [1.0.9] - 2026-11-14 - Publication de serveurs-mcp-france
 
 ### Modifié
