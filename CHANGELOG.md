@@ -5,6 +5,13 @@ Toutes les évolutions notables de ce dépôt sont décrites ici.
 Le format suit [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) et le projet respecte
 le [versionnage sémantique](https://semver.org/lang/fr/).
 
+## [1.0.9] - 2026-11-14 - Publication de serveurs-mcp-france
+
+### Modifié
+
+- Tableau des dépôts de la page d'accueil : ajout de `serveurs-mcp-france`, liste des serveurs MCP liés à la France
+  reprise du registre MCP officiel, mise à jour automatiquement chaque semaine.
+
 ## [1.0.8] - 2026-11-14 - Publication de plateformes-agreees-fr
 
 ### Modifié
