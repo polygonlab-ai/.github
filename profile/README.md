@@ -33,6 +33,7 @@ utiles à d'autres développeurs, testés, documentés et maintenus.
 | [plateformes-agreees-fr](https://github.com/polygonlab-ai/plateformes-agreees-fr) | Liste officielle des plateformes agréées pour la facture électronique publiée par la DGFiP, en JSON et CSV, mise à jour automatiquement chaque jour (données ouvertes) | Télécharger `data/plateformes.json` ou `data/plateformes.csv` |
 | [serveurs-mcp-france](https://github.com/polygonlab-ai/serveurs-mcp-france) | Serveurs MCP (Model Context Protocol) liés à la France, repris du registre MCP officiel, en JSON et CSV, mis à jour automatiquement chaque semaine (données ouvertes) | Télécharger `data/serveurs.json` ou `data/serveurs.csv` |
 | [agent-skills-entreprise-fr](https://github.com/polygonlab-ai/agent-skills-entreprise-fr) | Skills pour agents IA (format ouvert Agent Skills) sur l'entreprise française : SIREN, SIRET, TVA, code APE, NAF 2025, facture électronique, plateformes agréées | Copier un dossier de `skills/` dans le dossier de skills de son agent |
+| [apis-publiques-france](https://github.com/polygonlab-ai/apis-publiques-france) | Catalogue des API publiques françaises repris de data.gouv.fr, avec le résultat d'un test automatique de chaque adresse, en JSON et CSV, mis à jour automatiquement chaque semaine (données ouvertes) | Télécharger `data/apis.json` ou `data/apis.csv` |
 
 ## Contribuer
 

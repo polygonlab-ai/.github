@@ -5,6 +5,13 @@ Toutes les évolutions notables de ce dépôt sont décrites ici.
 Le format suit [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) et le projet respecte
 le [versionnage sémantique](https://semver.org/lang/fr/).
 
+## [1.0.11] - 2026-11-14 - Publication de apis-publiques-france
+
+### Modifié
+
+- Tableau des dépôts de la page d'accueil : ajout de `apis-publiques-france`, catalogue des API publiques françaises
+  repris de data.gouv.fr, testé et mis à jour automatiquement chaque semaine.
+
 ## [1.0.10] - 2026-11-14 - Publication de agent-skills-entreprise-fr
 
 ### Modifié
