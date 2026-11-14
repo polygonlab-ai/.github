@@ -25,7 +25,7 @@ utiles à d'autres développeurs, testés, documentés et maintenus.
 
 | Dépôt | Rôle | Installation |
 |---|---|---|
-| [identifiants-entreprise-fr](https://github.com/polygonlab-ai/identifiants-entreprise-fr) | Validation et formatage des SIREN, SIRET, numéros de TVA intracommunautaire et codes APE français (PHP) | `composer require polygonlab/identifiants-entreprise-fr` |
+| [identifiants-entreprise-fr](https://github.com/polygonlab-ai/identifiants-entreprise-fr) | Validation des SIREN, SIRET, numéros de TVA intracommunautaire et codes APE, avec les nomenclatures NAF rév. 2 et NAF 2025 et la table de passage officielle (PHP) | `composer require polygonlab/identifiants-entreprise-fr` |
 | [facture-electronique-fr-outils](https://github.com/polygonlab-ai/facture-electronique-fr-outils) | Lecture des factures électroniques CII, UBL et Factur-X et contrôle des mentions obligatoires françaises (PHP) | `composer require polygonlab/facture-electronique-fr-outils` |
 | [mcp-php-kit](https://github.com/polygonlab-ai/mcp-php-kit) | Serveurs MCP (Model Context Protocol) en PHP, avec un Worker Cloudflare facultatif | `composer require polygonlab/mcp-php-kit` |
 | [cloudflare-worker-securite](https://github.com/polygonlab-ai/cloudflare-worker-securite) | Worker Cloudflare qui pose les en-têtes de sécurité site par site, garde la CSP du site sur demande et affiche une page de maintenance (TypeScript) | Cloner, puis `npx wrangler deploy` |
