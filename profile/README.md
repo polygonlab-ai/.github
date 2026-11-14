@@ -29,6 +29,7 @@ utiles à d'autres développeurs, testés, documentés et maintenus.
 | [facture-electronique-fr-outils](https://github.com/polygonlab-ai/facture-electronique-fr-outils) | Lecture des factures électroniques CII, UBL et Factur-X et contrôle des mentions obligatoires françaises (PHP) | `composer require polygonlab/facture-electronique-fr-outils` |
 | [mcp-php-kit](https://github.com/polygonlab-ai/mcp-php-kit) | Serveurs MCP (Model Context Protocol) en PHP, avec un Worker Cloudflare facultatif | `composer require polygonlab/mcp-php-kit` |
 | [cloudflare-worker-securite](https://github.com/polygonlab-ai/cloudflare-worker-securite) | Worker Cloudflare qui pose les en-têtes de sécurité site par site, garde la CSP du site sur demande et affiche une page de maintenance (TypeScript) | Cloner, puis `npx wrangler deploy` |
+| [velopack-canal-maj](https://github.com/polygonlab-ai/velopack-canal-maj) | Mise à jour automatique d'applications Windows .NET avec Velopack, depuis son propre serveur : application d'exemple, scripts de publication, configurations de serveur (C#) | Cloner, puis `build/pack.ps1` |
 
 ## Contribuer
 

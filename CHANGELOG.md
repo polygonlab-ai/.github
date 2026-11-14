@@ -5,6 +5,13 @@ Toutes les évolutions notables de ce dépôt sont décrites ici.
 Le format suit [Keep a Changelog](https://keepachangelog.com/fr/1.1.0/) et le projet respecte
 le [versionnage sémantique](https://semver.org/lang/fr/).
 
+## [1.0.6] - 2026-11-14 - Publication de velopack-canal-maj
+
+### Modifié
+
+- Tableau des dépôts de la page d'accueil : ajout de `velopack-canal-maj`, premier dépôt .NET, avec son lien et sa
+  méthode d'installation.
+
 ## [1.0.5] - 2026-11-14 - Publication de cloudflare-worker-securite
 
 ### Modifié
@@ -49,6 +56,7 @@ le [versionnage sémantique](https://semver.org/lang/fr/).
   page d'aide, communs à tous les dépôts.
 - Modèles de tickets : anomalie et évolution.
 
+[1.0.6]: https://github.com/polygonlab-ai/.github/releases/tag/v1.0.6
 [1.0.5]: https://github.com/polygonlab-ai/.github/releases/tag/v1.0.5
 [1.0.4]: https://github.com/polygonlab-ai/.github/releases/tag/v1.0.4
 [1.0.3]: https://github.com/polygonlab-ai/.github/releases/tag/v1.0.3
